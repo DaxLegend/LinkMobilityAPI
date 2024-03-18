@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS8601: Possibile assegnazione di riferimento Null.
+dotnet_diagnostic.CS8601.severity = silent
+
+# CS8600: Conversione del valore letterale Null o di un possibile valore Null in un tipo che non ammette i valori Null.
+dotnet_diagnostic.CS8600.severity = silent
